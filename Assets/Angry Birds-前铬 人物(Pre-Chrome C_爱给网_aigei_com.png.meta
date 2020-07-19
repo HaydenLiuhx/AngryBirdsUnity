@@ -1,0 +1,4100 @@
+fileFormatVersion: 2
+guid: 2d6f859e5afe04c569aacc06d7800a9c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_0"
+    21300002: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_1"
+    21300004: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_2"
+    21300006: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_3"
+    21300008: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_4"
+    21300010: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_5"
+    21300012: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_6"
+    21300014: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_7"
+    21300016: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_8"
+    21300018: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_9"
+    21300020: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_10"
+    21300022: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_11"
+    21300024: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_12"
+    21300026: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_13"
+    21300028: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_14"
+    21300030: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_15"
+    21300032: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_16"
+    21300034: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_17"
+    21300036: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_18"
+    21300038: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_19"
+    21300040: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_20"
+    21300042: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_21"
+    21300044: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_22"
+    21300046: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_23"
+    21300048: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_24"
+    21300050: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_25"
+    21300052: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_26"
+    21300054: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_27"
+    21300056: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_28"
+    21300058: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_29"
+    21300060: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_30"
+    21300062: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_31"
+    21300064: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_32"
+    21300066: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_33"
+    21300068: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_34"
+    21300070: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_35"
+    21300072: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_36"
+    21300074: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_37"
+    21300076: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_38"
+    21300078: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_39"
+    21300080: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_40"
+    21300082: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_41"
+    21300084: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_42"
+    21300086: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_43"
+    21300088: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_44"
+    21300090: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_45"
+    21300092: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_46"
+    21300094: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_47"
+    21300096: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_48"
+    21300098: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_49"
+    21300100: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_50"
+    21300102: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_51"
+    21300104: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_52"
+    21300106: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_53"
+    21300108: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_54"
+    21300110: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_55"
+    21300112: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_56"
+    21300114: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_57"
+    21300116: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_58"
+    21300118: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_59"
+    21300120: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_60"
+    21300122: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_61"
+    21300124: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_62"
+    21300126: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_63"
+    21300128: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_64"
+    21300130: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_65"
+    21300132: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_66"
+    21300134: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_67"
+    21300136: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_68"
+    21300138: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_69"
+    21300140: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_70"
+    21300142: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_71"
+    21300144: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_72"
+    21300146: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_73"
+    21300148: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_74"
+    21300150: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_75"
+    21300152: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_76"
+    21300154: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_77"
+    21300156: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_78"
+    21300158: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_79"
+    21300160: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_80"
+    21300162: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_81"
+    21300164: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_82"
+    21300166: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_83"
+    21300168: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_84"
+    21300170: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_85"
+    21300172: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_86"
+    21300174: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_87"
+    21300176: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_88"
+    21300178: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_89"
+    21300180: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_90"
+    21300182: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_91"
+    21300184: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_92"
+    21300186: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_93"
+    21300188: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_94"
+    21300190: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_95"
+    21300192: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_96"
+    21300194: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_97"
+    21300196: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_98"
+    21300198: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_99"
+    21300200: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_100"
+    21300202: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_101"
+    21300204: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_102"
+    21300206: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_103"
+    21300208: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_104"
+    21300210: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_105"
+    21300212: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_106"
+    21300214: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_107"
+    21300216: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_108"
+    21300218: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_109"
+    21300220: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_110"
+    21300222: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_111"
+    21300224: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_112"
+    21300226: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_113"
+    21300228: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_114"
+    21300230: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_115"
+    21300232: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_116"
+    21300234: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_117"
+    21300236: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_118"
+    21300238: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_119"
+    21300240: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_120"
+    21300242: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_121"
+    21300244: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_122"
+    21300246: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_123"
+    21300248: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_124"
+    21300250: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_125"
+    21300252: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_126"
+    21300254: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_127"
+    21300256: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_128"
+    21300258: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_129"
+    21300260: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_130"
+    21300262: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_131"
+    21300264: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_132"
+    21300266: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_133"
+    21300268: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_134"
+    21300270: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_135"
+    21300272: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_136"
+    21300274: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_137"
+    21300276: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_138"
+    21300278: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_139"
+    21300280: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_140"
+    21300282: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_141"
+    21300284: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_142"
+    21300286: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_143"
+    21300288: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_144"
+    21300290: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_145"
+    21300292: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_146"
+    21300294: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_147"
+    21300296: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_148"
+    21300298: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_149"
+    21300300: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_150"
+    21300302: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_151"
+    21300304: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_152"
+    21300306: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_153"
+    21300308: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_154"
+    21300310: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_155"
+    21300312: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_156"
+    21300314: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_157"
+    21300316: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_158"
+    21300318: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_159"
+    21300320: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_160"
+    21300322: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_161"
+    21300324: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_162"
+    21300326: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_163"
+    21300328: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_164"
+    21300330: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_165"
+    21300332: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_166"
+    21300334: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_167"
+    21300336: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_168"
+    21300338: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_169"
+    21300340: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_170"
+    21300342: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_171"
+    21300344: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_172"
+    21300346: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_173"
+    21300348: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_174"
+    21300350: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_175"
+    21300352: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_176"
+    21300354: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_177"
+    21300356: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_178"
+    21300358: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_179"
+    21300360: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_180"
+    21300362: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_181"
+    21300364: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_182"
+    21300366: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_183"
+    21300368: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_184"
+    21300370: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_185"
+    21300372: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_186"
+    21300374: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_187"
+    21300376: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_188"
+    21300378: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_189"
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 768
+        width: 38
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9dc67d118f14c1e89ece9cab737864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8db6a3d279a400283e2164404ff0c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22540bc413a3549ada0ea258117d4d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc0eab1da9148508a494fd2412254c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 814
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b65b82348a040acbb2b976ab9ed592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 951
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb9241d397d4e22a1265e71efbe6fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 917
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fae51ba4e36447eb4ddc73c7a22af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 843
+        width: 43
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ff5d3ea638456389ea4b558f54470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 920
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee7b7d3e5392489fa1c6d113bc69788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 928
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3645c80ac804649b8887556d80c51044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 659
+        width: 326
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d1ccf96788a4155924d2419385cb72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 955
+        width: 118
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf84cccce5d443a9b92df26950afdaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 957
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1686b49621044e37895896a4135195b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 963
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5fafed460be4a818ea1d3843b143a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 947
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81719bcf1fffe466093817f6be4d4d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 913
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea41752ee064292b6cfb5f78e488bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 959
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d6ae858336f45778d8cd7269ce3b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 943
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0064faa4bc4debb21b18bed6702ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 939
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca128c4c2f0468c8b64dd0666a9bb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 876
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ebdc0c11a04750a01f50a3ef13c76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 890
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f496fb780f34ad99bd5023fcf19c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 872
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff9706729fac4e7782b5445cb9bb658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 838
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06877420ecccb4c7c8632ed7e1965ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 877
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2697a67a466ef43778b43143eab6e063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 844
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4470f53f464c149f2b31249f6f603649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 887
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca4ad3ff29fa447eb35e9afb2be7853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 899
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8f109cb69b4e0cb790096ed4da1ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 884
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f2bccd56aa496d8c10f14b5e8967d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 844
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f8f4c7c1b84d39ae903825495c06a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 830
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96f180268eb48f0964de430ef8799c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 846
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329acbb0aa3764ef0b6f59ebd43250fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 852
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9eab4b53c0543448518c2622532fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 843
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4287bed749cff415baee02c107eee20f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801112e12ff4c4c0f99a635a3ee1099a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 659
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7d95e86f3e4e59a6fd225455fe343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 791
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df12c93156044c50a0f31dcf20961b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 798
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802e5f75394f489fa6d0168a625b051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 712
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdcdfc6378a7411f86171eb00aa3bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 713
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d3ec98eb134ba2aecf2d2e48d1c34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 713
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f88dd234d684c43a72d6c102c21476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 714
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd0116cfa1344716b36860f25a402bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 715
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d2092936574da5be7996705e32335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 715
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f1b9d418034b7d9bc867e8922a2f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 718
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d22aac6602e347cba81cd9e528ebfc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 731
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a7e2742ca34776bbd95f03f4f7e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 733
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f1e462b1fce437791420fae169e704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 732
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ee11ff6381492d8a711bc745a3ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 744
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d967ea59139ea4cd984924d23259d2f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 695
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc956b57842f47839b92ba694d0c5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 705
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad673ee60097a41058c97d2fe4cd6268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 704
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216731bc33944e7b933ee007d53684c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 691
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2440eb4d4e4d8183936e7086a14bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 613
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aecc52187a8486eb1cd13bb2882114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ba86511f8c4f899fdb65e6d488e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98898ad62156844678f225b10eb1455e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24a135e2447f4b5c86feb82fcfc9e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 617
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796747e228eaf4690b3c0dfdf09b82b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 617
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ef909d8db2e4afcb4013077b395718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 617
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc72654f849a4055b52b9a3dbdcd021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 660
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea465123f9ce0409eb4a9fd71065a1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 660
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beeba80e27f1461db9180cb1984180e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_61"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 660
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b1f0212c2c4f33a4b496b05b9a210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_62"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 569
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102370d62a3243b1b3c80ab8f487eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_63"
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 683
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7463c325f2c4d45a5493eedec29bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_64"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 680
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d13a48a3f9bb42a9b0e73d7f98ba62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_65"
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 672
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef532a08b09745eebf3b32c8723bf5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_66"
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 667
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecfba7bbf0cb4b789d9efa542439644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_67"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 625
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1f5c4b4e9d4f098aefad82728d3c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_68"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 628
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebec9e2b08f1487b8a782e28b95e1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_69"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 628
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5073534d6b346be8c3f90a3da895b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_70"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 504
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2244cec20ff66423ab28127760b722d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_71"
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 503
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7e6fdd7c297463e88f574d562589df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_72"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 591
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5782d37462bc34920b745ac2fb0898ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_73"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 514
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441a28f67cc8d40068adfdf4a9b23d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_74"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 522
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87632844c96454ad8b41879e02ca7fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_75"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 524
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bcea1a2274e4ba89eb46f9eb8dd44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_76"
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 525
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47047da9c914346968d56f4a5a1c16e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_77"
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 525
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb306ba50704213b107df24682d87a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_78"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 531
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754461e3bef5b44b0b35a3427c921e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_79"
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 531
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a905936a80ff46088aacabe7abab951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_80"
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 531
+        width: 92
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8663ab094328b4451bf5a9d8490c46db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_81"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 559
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4327120eb9844a3a403ce725b13833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_82"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 456
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b9f7b75990545e6ac0c8c93c32d379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_83"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 527
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2bd034132ad463bbd17672bbd81330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_84"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcafa910c6104a0aa88506a57761c38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_85"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 495
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ebff69369f452da0e38ab2f725d3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_86"
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 500
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7070ddd3fa52444b9229025f3f2a864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_87"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 349
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc779730a6b104015a083cf4582409ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_88"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 415
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d188b3257e4ef2818b4a3b7fb2ddf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_89"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 427
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fffb03a62d4e1faa6265879ffae1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_90"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 439
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22346c4f27e6418587f5ed08196142a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_91"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f4dc4684654ba582df6e518f9fff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_92"
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad207eb68843480fb49e582fad24255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_93"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7220638eb85344cfac5022981cdf97c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_94"
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 441
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf0ade6e3b143aab746bed5ff17c4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_95"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 443
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94386f700157452796d518653995e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_96"
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 445
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4796a86ab6dac4e87838b5244c460947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_97"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45ff9ab39be401da2344e912fa58a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_98"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 465
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0efb325e121439babacd7c4ad0b714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_99"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5660691f2b749f18faa6883c8e1f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_100"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 344
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474c23036cc64c28819803a5148f95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_101"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 354
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be932a1b7094e688cdedabef69a67d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_102"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 362
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551769cb0b7574971b33c571ddd888fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_103"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 365
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35800b55147154a6995e98aa941b99e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_104"
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 365
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7dea86a689a4db292fb08ee7991b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_105"
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 367
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb105bd97e049988265d492a571acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_106"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 367
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6213360b4f2b64409a98315cb77e8221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_107"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 401
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de375d7fadda14453b8f1aab0acd81f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_108"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 316
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46553eca235574cf297a481750e29e02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_109"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 332
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371c475025604df1a0b5500624e8318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_110"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154634f4de13c4eb0bb8547041949c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_111"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d667eabc7a23496682e451331b93f90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_112"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 344
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911e6408f83e464d9fa5fa3fe202d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_113"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 194
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8d9440d6eb4113b7d489a38f2e4d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_114"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 269
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d837bc2e50fa4fcf911e34bf25fb933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_115"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 283
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24814af6887ec4ded8108b6391ecd735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_116"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 291
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282c231fca3df4138b0364a93202ef23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_117"
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 291
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d44bb8e751154abaaa5cbbf39aab15f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_118"
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 292
+        width: 95
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea89e9df16024c458692dbd6a98cb88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_119"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 316
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae25dfeb4c27845e6865ff87f39e560b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_120"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 316
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0edb6283fc0c4e6c98c0b44008238d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_121"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f52a388b0a542ebb7f650f3500006c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_122"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 242
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4647d0175c43143aaaec07f27646d089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_123"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 245
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b892a9061b4a9cb107a9d443abf06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_124"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8d7bf97e7b47d2a73b82bd944aff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_125"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 292
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586ebc00bcb7485f982ef61b75f20f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_126"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 218
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de30a1d2a809446ab99f660471e8628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_127"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378cd09190fb649fc881bffae14314d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_128"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 269
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705939b41f9b6428aa592631f3f18430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_129"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 207
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c8295ea3a04feb80c3335d12a9db3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_130"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 218
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4e4087f96f43a19ed2994217c7d00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_131"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 226
+        width: 135
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca2d83ba369432ba517571be63a4b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_132"
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 227
+        width: 135
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc08a567e32a141af97e71899ac0f24c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_133"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84dd51502e74bdea31965faaaee37b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_134"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 244
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec63883f9929454aaa64473707ee8e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_135"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 184
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc5022762674853a2925c0e025aa06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_136"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b580d0c271a4400951ca677fac798f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_137"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10647699785364b4b938717b62c6a96c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_138"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 140
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee7923d7c73640d281ee16efa232868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_139"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 162
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99ad326b2c347bb9aeaa1d6a8c123c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_140"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 170
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491a5fdca31be4a5cb45ed83efbb3c5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_141"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 171
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dc8f15279584ffca5d11f10f75b9fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_142"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 172
+        width: 81
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d115a4ab878444b4ebd4aba0d1341b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_143"
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 178
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8872d86c6fe494ad7aa372ceb1052358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_144"
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 179
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40369cff17bd7425caa52290fbeb6dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_145"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 202
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ef7eb333794a8dbf5b1142296e3f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_146"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 203
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c73dc30646e24a2e9bb51efac800ac4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_147"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 121
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cad790bd27e4b09824bfa40f07c0f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_148"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 131
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70d58dd99f8841c28f495af4a6b50c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_149"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 151
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004c922e854c43079c8888e15a87924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_150"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b054bf9e2744d5696b98166a1dd8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_151"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 187
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e980e790b8429eb3baa3569d67457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_152"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18f7a0894b04637b2ed1595b8859dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_153"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5829031a0e4499b58ba467f78aae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_154"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 172
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5e8906500394f0f8ac5d0fa2437564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_155"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 99
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3384efcab294a1a8caa4d7afcef130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_156"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e1b85cf025d419f96c7058464bc3dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_157"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 158
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730e0d01ed41450e9b621fdfc8c7070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_158"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad834cd8cc1496fa8426161817e12f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_159"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 114
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ef7349a51b49c3aa49980142bbdca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_160"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 123
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47382bc4e0c84ed8a2d7b124de57c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_161"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 125
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0ee3fe78da140558e2f8d7e78bfc9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_162"
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 125
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19dcb17e4ecc453aa01ed4cfa82bd05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_163"
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 125
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290885dee7f2046bdb01967fc286ff2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_164"
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 126
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402194cc9728471c9d1587545b76b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_165"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916501ab68dc4e23be3840bdfae582d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_166"
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 146
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfc9b9b0c80c40c68b86b19f501a8b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_167"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118ff73ff3ff945b5b48a55ee9fcf093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_168"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 91
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78745305aa274feba99acb127a0670a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_169"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c34d3bb75c44ed796ca097ad66b6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_170"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d03de83ffff1434496ddb0b21e7ed40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_171"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd504098387946199a8ab53e64c8734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_172"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 55
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5201ae4d84a8d4b50a4024f1b9a5e994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_173"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27651969f004c45d4b786126be06c6bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_174"
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 114
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b44cea9ea7654ed58adea07e8a8fda7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_175"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 26
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744290ffec3242379418fec02915bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_176"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 75
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55724c20bcc794068869df49bf7e365e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_177"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 78
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e55b9c83d43485db262e9ff67b0842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_178"
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 79
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b63efd555184a2a84a813cf3ae854c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_179"
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 81
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef8c48c409640c9a23eeb18cb51262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_180"
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca3e5a0ea6354d15af2461d4d904410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_181"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 14
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cb2570d0f6c487ea019a36ce27f332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_182"
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 35
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f12380bf884e17a5faa41270faeaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_183"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 66
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06260b54a4ce744beb0655b430128551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_184"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 27
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee166b88d72a74b51a3f7521acf57984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_185"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 31
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eee1a69b42d48f582f612764935346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_186"
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 35
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9e9c4f38d464bcd8b1e8cbbe8c84d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_187"
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 42
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08114cbd1042645acae17a9cbd705455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_188"
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54bd42e57cbb41b694e879c0a9c2926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Angry Birds-\u524D\u94EC \u4EBA\u7269(Pre-Chrome C_\u7231\u7ED9\u7F51_aigei_com_189"
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 18
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642350e0d2e042229793e304e90a410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cff3eff36bf4b483b8b3ca6e7aaab08d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
